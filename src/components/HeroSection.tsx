@@ -42,7 +42,7 @@ export default function HeroSection() {
 
   const handleViewProjects = () => {
     // Open GitHub profile in a new tab
-    window.open('https://github.com/sharmaabhisharma249-netizen', '_blank', 'noopener,noreferrer');
+    window.open('https://github.com/PANKAJ326/Web-development-portfolio.git', '_blank', 'noopener,noreferrer');
   };
 
   return (
